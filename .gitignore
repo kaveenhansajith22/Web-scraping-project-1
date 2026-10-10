@@ -12,3 +12,5 @@ __pycache__/
 
 # Secrets and environment variables
 .env
+
+~$*
