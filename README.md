@@ -77,6 +77,10 @@ The scripts generate CSV and Excel files in the project directory.
 
 The detailed scraping run collected 1,000 book records. The initial quality check found no missing UPCs or duplicate product URLs and two missing descriptions.
 
+## Excel Output Preview
+
+![Excel output showing scraped book data](screenshots/excel-output.png)
+
 ## Learning Project
 
 This project was built for practice and portfolio development. The target website is a practice website designed for web scraping.
